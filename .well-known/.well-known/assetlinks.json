@@ -1,8 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "io.github.christianarribas.presuapp",
-    "sha256_cert_fingerprints": ["7E:B0:BA:51:A3:DF:56:4C:13:5E:55:82:73:3B:D2:63:57:98:8C:38:34:29:97:FE:94:BF:CF:46:E3:64:A6:27"]
-  }
-}]
